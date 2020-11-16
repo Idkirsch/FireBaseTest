@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601220588238",
+    "firebase_url": "https://button-clicker-demo.firebaseio.com",
+    "project_id": "button-clicker-demo",
+    "storage_bucket": "button-clicker-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601220588238:android:6085de56b8aed1e271669f",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601220588238-pheb3uvgq6kj3khil77gh81gs17sf2ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetest",
+            "certificate_hash": "fa2f7c5685cd527576b60ee0b2bcf7245f671bee"
+          }
+        },
+        {
+          "client_id": "601220588238-l1188d59ul5us64sgk8ag7hjklm7njqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6btgIh5pJFxrgKH2CGq7eSe25GkdcjFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601220588238-l1188d59ul5us64sgk8ag7hjklm7njqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
